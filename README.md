@@ -1,5 +1,5 @@
 # symex
-Add symbolic links to all local, executable node modules.
+Create symbolic links to all local, executable node modules.
 
 ## Install
 
