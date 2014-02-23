@@ -1,6 +1,6 @@
 {
   "name": "symex",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Add symbolic links to all local, executable node modules.",
   "bin": {
     "symex": "./main.js"
