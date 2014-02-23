@@ -1,0 +1,41 @@
+{
+  "name": "symex",
+  "version": "0.0.0",
+  "description": "Add symbolic links to all local, executable node modules.",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/metaraine/symex"
+  },
+  "keywords": [
+    "symbolic",
+    "link",
+    "executable"
+  ],
+  "author": "Raine Lourie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/metaraine/symex/issues"
+  },
+  "homepage": "https://github.com/metaraine/symex",
+  "dependencies": {
+    "glob": "^3.2.8"
+  },
+  "devDependencies": {
+    "jade": "^1.1.5",
+    "q": "^1.0.0",
+    "child-process-promise": "^0.2.0-SNAPSHOT.1389671754086",
+    "lodash": "^2.4.1",
+    "nativity": "0.0.1",
+    "chai": "^1.9.0",
+    "mocha": "^1.17.1",
+    "mocha-as-promised": "^2.0.0",
+    "chai-as-promised": "^4.1.0",
+    "gulp-clean": "^0.2.4",
+    "gulp-util": "^2.2.14",
+    "gulp": "^3.5.2"
+  }
+}
